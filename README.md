@@ -4,11 +4,7 @@ My graduation project (Computer Engineering, Qassim University, 2025).
 
 A small mobile robot that moves along a path, looks for tomatoes with a camera, picks the ripe ones with a 6-DOF arm and drops them in a box on the robot. Unripe and rotten tomatoes are skipped.
 
-<p>
-  <img src="images/robot.jpg" width="32%">
-  <img src="images/robot_front.jpg" width="32%">
-  <img src="images/electronics.jpg" width="32%">
-</p>
+<img src="images/robot.jpg" width="300">
 
 ## How it works
 
